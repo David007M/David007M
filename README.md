@@ -1,5 +1,5 @@
-## Hi there 👋 
-### This is Mahmutjan Dawut.
+### Hi there 👋 
+## This is Mahmutjan Dawut.
 
 <!--
 **David007M/David007M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
