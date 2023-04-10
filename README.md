@@ -1,4 +1,4 @@
-## Hi 👋 I'm Mahmutjan Dawut.
+## Hi 👋 I'm Mahmutjan Dawut
 ####  🌱 I’m currently learning & practicing the real-world application of Python
 
 <!--
