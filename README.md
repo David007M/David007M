@@ -1,5 +1,6 @@
 ## Hi 👋 I'm Mahmutjan Dawut
 ####  🌱 I’m currently learning & practicing the real-world application of Python
+####  😄 Pronouns: You are not serious?!👻👻👻
 
 <!--
 **David007M/David007M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
