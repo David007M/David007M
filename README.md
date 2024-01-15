@@ -1,5 +1,5 @@
 ## Hi 👋 I'm Mahmutjan Dawut !
-####  🌱 I’m currently learning & practicing Flutter app development
+####  🌱 I’m currently learning & practicing app development (SwiftUI & Flutter)
 
 <!--
 **David007M/David007M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
